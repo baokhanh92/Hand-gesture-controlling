@@ -1,6 +1,4 @@
 
-## Hand getures
----
 ## [ 1. OVERVIEW ]()
 
 **This project is based on the Kojak project: https://github.com/athena15/project_kojak**
